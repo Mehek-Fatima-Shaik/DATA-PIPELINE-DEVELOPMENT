@@ -100,3 +100,4 @@ data processing logic suitable for both beginners and intermediate practitioners
 
 #OUTPUT
 
+<img width="715" height="545" alt="Image" src="https://github.com/user-attachments/assets/2a3f23dd-795c-4b8d-97f6-21fb2db6f803" />
